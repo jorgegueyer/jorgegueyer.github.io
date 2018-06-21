@@ -1,2 +1,2 @@
-# web
-Repositorio de código con ejemplo de página web sencilla pero eficaz.
+# Página Web
+Página Web desplegada en github
